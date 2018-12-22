@@ -1,0 +1,42 @@
+div.Rectangle-dark {
+  background-color: #787878;
+  
+}
+div.Rectangle-grey {
+  background-color: #f8f8f8;
+  
+}
+
+div.Logo {
+  margin: auto;    
+  width: 220px;
+  height: 220px;
+  background-color: #ffffff;
+}
+
+
+div.text-01{
+  border: auto;
+  padding: inherit;
+  margin: auto;
+    
+}
+h1.Nome {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  font-weight: 800;
+  font-style: normal
+  font-stretch: normal; 
+  letter-spacing: normal;
+  color: #707070;
+}
+
+h5.descricao {
+  line-height: 0;
+  font-weight: 200;
+  font-size: 20px;
+  font-style: italic;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #707070;
+}
